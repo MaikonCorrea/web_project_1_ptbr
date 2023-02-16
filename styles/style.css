@@ -76,10 +76,9 @@
   position: absolute;
   margin: auto;
   right: 0px;
-  top: 64px
+  top: 64px;
 }
 
-/* comando geral */
 .description {
 margin: 0px;
 padding-top: 100px;
@@ -89,15 +88,13 @@ justify-content: center;
 position: relative;
 }
 
-/* div com o h2 e paragrafos */
 .two-columns {
   width: 80%;
   margin: 0px;
   display: flex;
-  justify-content: space-between
+  justify-content: space-between;
 }
 
-/* h2 */
 .two--columns__brief {
   width: 175px;
   line-height: 1.2em;
@@ -108,12 +105,11 @@ position: relative;
   color: #2F80ED;
 }
 
-/* div com os paragrafos */
 .two-columns__main-text {
   width: 80%;
   min-width: 784px;
 }
-/* parágrafos */
+
 .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
@@ -124,14 +120,13 @@ position: relative;
 .paragraph-edition {
   padding-bottom: 30px;
 }
-/* span dentro do segundo paragrafo*/
+
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: bold;
 }
 
-/* cabeça do bloco */
 .digits {
   display: flex;
   flex-direction: column;
@@ -141,7 +136,6 @@ position: relative;
   padding-bottom: 100px;
 }
 
-/* h2 */
 .section-title {
   width: 60%;
   line-height: 1.15em;
@@ -151,7 +145,6 @@ position: relative;
   text-align: center;
 }
 
-/* h3 */
 .section-subtitle {
   width: 60%;
   line-height: 34px;
@@ -161,7 +154,6 @@ position: relative;
   text-align: center;
 }
 
-/* bloco das celulas */
 .table {
   width: 1100px;
   margin: 0px;
@@ -170,17 +162,14 @@ position: relative;
   justify-content: space-between;
   padding:0px;
   padding-top: 60px;
-
 }
 
-/* célula */
 .table__cell {
   width: 250px;
   list-style: none;
   margin: 0px;
 }
 
-/* cabeça da célula */
 .table__heading {
   line-height: 1.15em;
   font-size: 24px;
@@ -188,7 +177,6 @@ position: relative;
   margin: 0px;
 }
 
-/* texto da célula */
 .table__text {
   line-height: 1.2em;
   font-size: 18px;
@@ -225,7 +213,6 @@ position: relative;
   position: relative;
   text-align: center;
   padding-top: 70px;
-
 }
 
 .feynman__link {
@@ -237,7 +224,6 @@ position: relative;
   position: absolute;
   right: 48px;
   bottom: 50%;
-
   }
 
 .feynman__image {
@@ -266,7 +252,7 @@ position: relative;
   line-height: 1.15em;
   font-size: 60px;
   font-weight: bold;
-  color: white;
+  color: #ffffff;
   width: 60%;
   margin: 0px;
   z-index: 1;
@@ -276,7 +262,7 @@ position: relative;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  color: white;
+  color: #ffffff;
   width: 60%;
   margin: 0px;
   padding-top: 20px;
@@ -298,24 +284,22 @@ position: relative;
   width: 200px;
   margin: 0px;
   list-style: none;
-
 }
 
 .table__heading_theme_dark {
   line-height: 1.15em;
   font-size: 24px;
   font-weight: bold;
-  color: white;
+  color: #ffffff;
   margin: 0px;
   padding-bottom: 20px;
-
 }
 
 .table__text_theme_dark {
   line-height: 1.2em;
   font-size: 18px;
   font-weight: normal;
-  color: white;
+  color: #ffffff;
   margin: 0px;
 }
 
@@ -327,18 +311,14 @@ position: relative;
   top: 0px;
 }
 
-/* total do footer */
 .footer {
 min-height: 350px;
 background-color: #1F1F1F;
 display: flex;
 position: relative;
 justify-content: space-evenly;
-
-
 }
 
-/* todos os blocos do footer */
 .footer__columns {
   display: flex;
   justify-content: space-between;
@@ -348,7 +328,6 @@ justify-content: space-evenly;
   padding-bottom: 40px;
 }
 
-/* bloco logo */
 .footer__column_content_copyright {
   flex-basis: 711px;
   margin: 0px;
@@ -358,64 +337,56 @@ justify-content: space-evenly;
   position: relative;
 }
 
-/* bloco sobre */
 .footer__column_content_about {
   list-style: none;
   position: relative;
 }
 
-/* bloco mídia */
 .footer__column_content_social {
   margin: 0px;
 }
 
-/* logo */
 .logo_place_footer {
   width: 183px;
   height: 35px;
   margin: 0px;
 }
 
-/* copyright */
 .footer__autor {
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  color: white;
+  color: #ffffff;
   margin: 0px;
   position: absolute;
   bottom: 18px;
 }
 
-/* titulos colunas 3 e 4 */
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  color: white;
+  color: #ffffff;
   margin: 0px;
   padding-bottom: 20px;
 }
 
-/* palavras links */
 .footer__column-link {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   text-decoration: none;
-  color: white;
+  color: #ffffff;
   margin: 0px;
   padding: 0px;
 }
 
-/* listas das colunas 3 e 4 */
 .footer__list {
   list-style: none;
   margin: 0px;
   padding-left: 0px;
 }
 
-/* icones mídia social */
 .footer__social-icons {
   width: 16px;
   height: 16px;
