@@ -3,14 +3,19 @@
   flex-wrap: wrap;
   justify-content: center;
   position: relative;
+  margin-bottom: -50px;
+  z-index: 2;
 }
+
 .video__iframes{
   margin: 0;
+  padding-top: 50px;
+  display: flex;
+  column-gap: 20px;
 }
 
 .video__iframe {
-  border: 1px solid green;
   width: 536px;
   height: 316px;
-
+  border: none;
 }
