@@ -25,6 +25,7 @@
 @import url(../blocks/techniques/__cards/__item/cards__item.css);
 @import url(../blocks/techniques/__cards/__image/cards__image.css);
 @import url(../blocks/techniques/__cards/__discription/cards__discription.css);
+@import url(../blocks/techniques/__cards/__discription_edition/cards__discription_edition.css);
 /* video */
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframe.css);
