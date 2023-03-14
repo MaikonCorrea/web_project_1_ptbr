@@ -20,15 +20,7 @@ Busquei utilizar uma estrutura bem organizada, priorizando o cuidado com todas a
 O Desenvolvimento deste projeto foi por meio de blocos, uma sujestão da mentoria que realemte me ajudou a conseguir um melhor resultado focando em uma seção de cada vez.
 <br>
 
-Fui desafiado a resolver algumas questões que ficaram ocultas nas páginas do projeto que continha o layout e as  instruções para sua elaboração.
-Incluí modificadores em parágrafos para que pudesse solucionar os problemas de espaçamento
-
-![o maior problema da educação](https://user-images.githubusercontent.com/121962633/224555686-59e55d21-1112-4b64-bea7-af43dc2f5b14.jpg)
-
----
-
-
-Também busquei de maneira lógica, solucionar a falta de informação de widht dentro do bloco (techniques), com o somatório dos demais ítens, me fornecendo o necessário para continuação do desenvolvimento.
+Fui desafiado a de maneira lógica, solucionar a falta de informação de widht dentro do bloco (techniques), com o somatório dos demais ítens, me fornecendo o necessário para continuação do desenvolvimento.
 
 ![Captura de tela 2023-03-12 125223](https://user-images.githubusercontent.com/121962633/224556296-e281032a-7a15-4e69-81bc-3ca9eef0e07f.png)
 

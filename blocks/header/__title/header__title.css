@@ -3,9 +3,6 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
-  position: absolute;
-  margin: 0 auto;
-  left: 64px;
+  margin: 0 0 0 64px;
   align-self: center;
-  z-index: 3;
 }

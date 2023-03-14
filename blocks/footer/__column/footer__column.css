@@ -1,0 +1,8 @@
+footer__column {
+  flex-direction: column;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  position: relative;
+  display: flex;
+}

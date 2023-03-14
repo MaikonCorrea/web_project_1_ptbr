@@ -1,5 +1,4 @@
 .table__cell_theme_dark {
   width: 200px;
-  margin: 0px;
-  list-style: none;
+  z-index: 1;
 }

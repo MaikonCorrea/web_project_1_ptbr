@@ -6,8 +6,4 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
-  display: flex;
-  flex-direction: column;
-  margin: 0px;
-  z-index: 2;
 }
