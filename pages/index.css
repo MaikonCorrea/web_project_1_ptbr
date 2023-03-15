@@ -6,19 +6,18 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
-@import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/header/__square/header__square.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__logo/logo_place_header.css);
 @import url(../blocks/header/__link/header__link.css);
 /* discription */
-
-
 @import url(../blocks/discription/discription.css);
-@import url(../blocks/discription/__two-columns/two-columns.css);
-@import url(../blocks/discription/__two-columns/__brief/two-columns__brief.css);
-@import url(../blocks/discription/__two-columns/__main-text/two-columns__main-text.css);
-@import url(../blocks/discription/__two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/discription/__two-columns/__span-accent/two-columns__span-accent.css);
+/* two-columns */
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 /* techniques */
 @import url(../blocks/techniques/techniques.css);
 /* cards */
@@ -76,7 +75,6 @@
 @import url(../blocks/table/__text/table__text_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading_theme_dark.css);
 @import url(../blocks/table/__cell/table__cell_theme_dark.css);
-
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);

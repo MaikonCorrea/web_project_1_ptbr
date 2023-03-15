@@ -7,8 +7,7 @@
   }
 }
 
-.header__square-pic,
-.kaufman__image {
+.rotation {
   animation: rotation 20s linear infinite;
 }
 
